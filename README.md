@@ -2,21 +2,21 @@ Bãi đỗ xe thông minh
 
 
 
-\## Giới thiệu
+Giới thiệu
 
 Mô tả ngắn 2-3 câu: hệ thống làm gì.
 
 
 
-\## Phần cứng
+Phần cứng gồm có:
 
-\- Vi điều khiển: STM32F103, ESP32-CAM 
+- Vi điều khiển: STM32F103, ESP32-CAM 
 
-\- Cảm biến / ngoại vi: CP2102, Buzzer, Servo G90,...
+- Cảm biến / ngoại vi: CP2102, Buzzer, Servo G90,...
 
 
 
-\## Thành viên
+Thành viên(Nhóm 9)
 
 | Họ tên         | MSSV     |        Phụ trách        |
 
