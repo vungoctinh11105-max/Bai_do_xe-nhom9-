@@ -1,4 +1,4 @@
-\# Tên đề tài
+Bãi đỗ xe thông minh 
 
 
 
@@ -10,29 +10,19 @@ Mô tả ngắn 2-3 câu: hệ thống làm gì.
 
 \## Phần cứng
 
-\- Vi điều khiển: ...
+\- Vi điều khiển: STM32F103, ESP32-CAM 
 
-\- Cảm biến / ngoại vi: ...
-
-
-
-\## Công cụ và phiên bản
-
-\- IDE: ...
-
-
-
-\## Cách build và nạp
-
-1\. ...
+\- Cảm biến / ngoại vi: CP2102, Buzzer, Servo G90,...
 
 
 
 \## Thành viên
 
-| Họ tên | MSSV | Phụ trách |
+| Họ tên         | MSSV     |        Phụ trách        |
 
-|--------|------|-----------|
+|Nguyễn Vương Phú|B23DCDT190|Tìm hiểu ESP32-CAM, CODE |
 
-| Vu Ngoc Tinh | ... | ... |
+| Vũ Ngọc Tịnh   |B23DCDT258|TẠO GIT, TÌM HIỂU CODE   |
+
+|Nguyễn Hữu Nghĩa|B23DCDT178|LẮP PHẦN CỨNG            |
 
